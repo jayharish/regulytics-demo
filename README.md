@@ -9,7 +9,7 @@
 
 A production-grade data pipeline that ingests **2M+ FDA drug adverse event records** from the OpenFDA REST API, processes them through a **Bronze → Silver → Gold medallion architecture** on Azure Data Lake Storage Gen2, and serves live KPIs through an interactive Streamlit dashboard.
 
-**🔗 [View Live Dashboard →](https://regulytics-demo.streamlit.app)**
+**🔗 [View Live Dashboard →](https://regulytics-demo.streamlit.app)** &nbsp;·&nbsp; ✅ Live as of 2026-05-25
 
 ---
 
